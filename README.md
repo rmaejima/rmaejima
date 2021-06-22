@@ -1,3 +1,9 @@
+# プロフィール
+- 豊橋技術科学大学4年
+- フロントエンド猛勉強中
+- 研究室で音声言語処理を学んでいます。
+
+# GitHubステータス
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rmaejima&count_private=true&show_icons=true" />
 </a>
